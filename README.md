@@ -5,8 +5,8 @@ The bond energy/bond order population ([BEBOP](https://doi.org/10.1021/acs.jctc.
 ## Installation
 
 ```bash
-git clone https://github.com/keithgroup/bebop1_final
-cd bebop1_final
+git clone https://github.com/keithgroup/BEBOP1_v2.0.0
+cd BEBOP1_v2.0.0
 pip install .
 ```
 
