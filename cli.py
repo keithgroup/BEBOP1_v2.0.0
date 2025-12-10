@@ -2,7 +2,7 @@
 
 # MIT License
 # 
-# Copyright (c) 2024, Barbaro Zulueta
+# Copyright (c) 2025, Barbaro Zulueta, John A. Keith
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -144,7 +144,7 @@ class file_properties:
         current_time = now.strftime("%H:%M:%S")
         
         print(f"\n\n\n{20 * ' '}SUMMARY OF BEBOP-1 CALCULATION\n")
-        print(f"{24 * ' '}BEBOP-1 (Version 1.0.1)")
+        print(f"{24 * ' '}BEBOP-1 (Version 2.0.0)")
         print(f"{23 * ' '}{day_month_year} {current_time}\n\n")
         print(f'   HARTREE-FOCK OUTPUT:  {os.getcwd()}/{file}\n\n')
 
