@@ -1,6 +1,6 @@
 # MIT License
 # 
-# Copyright (c) 2024, Barbaro Zulueta
+# Copyright (c) 2025, Barbaro Zulueta, John A. Keith
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -20,7 +20,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-"""Parameters for the BEBOP code (version 1.0.1) - OPTIMIZED
+"""Parameters for the BEBOP code (version 2.0.0) - OPTIMIZED
 
 BEBOP_Pair :: BEBOP atom-pair parameters (i.e., beta, zeta, R_sigma and D_AB) - WITH CACHING
 BEBOP_Atom :: single atom parameters (i.e., n_2s, CBS-QB3 excitation energies from 1s to 2s) - WITH CACHING
