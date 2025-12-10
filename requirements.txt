@@ -1,0 +1,2 @@
+# BEBOP1 Dependencies
+numpy>=1.19.0
