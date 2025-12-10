@@ -1,5 +1,5 @@
 # MIT License
-# Copyright (c) 2024, Barbaro Zulueta
+# Copyright (c) 2025, Barbaro Zulueta, John A. Keith
 
 """Compute the distance matrix and the trig. projection functions
 
