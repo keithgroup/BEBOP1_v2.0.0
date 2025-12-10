@@ -2,7 +2,7 @@ import numpy as np
 import bebop1_params as par
 
 def BEBOP1(DistanceMatrix, AtomSym, MolOcc2s, MullikenPop):
-    """Compute the total BEBOP1 energy (SCF+ZPVE) at 0 K - CLEAN VERSION"""
+    """Compute the total BEBOP1 energy (SCF+ZPVE) at 0 K.  To remove ZPVE contributions subtract ZPVE from a B3LYP/CBSB7 calculation"""
     
     BEBOP = 0
     SIZE = AtomSym.shape[0]
