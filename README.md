@@ -38,7 +38,7 @@ Execute `bebop1` in the command line:
 bebop1 -f {name_file} --be --sort --json > {name_file}.bop
 ```
 
-where `{name_file}` is the Gaussian output file that contains the HF MinPop calculation.  
+where `{name_file}` is the Gaussian output file that contains the HF MinPop calculation. If you need a file to test, use S000001_B3LYP.out.bz2 (after expanding the downloaded file with 'bunzip2 S000001_B3LYP.out.bz2').
 
 Note: the code should be able to parse through a multistep job where multiple single-point energy, geometry optimization, and/or frequency calculations are run, as long as one MinPop calculation output block exists in the output file.  
 
