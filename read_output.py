@@ -1,5 +1,5 @@
 # MIT License
-# Copyright (c) 2024, Barbaro Zulueta
+# Copyright (c) 2025, Barbaro Zulueta, John A. Keith
 
 """Script that reads the open-restricted shell Hartree-Fock/CBSB3 output file from Gaussian16"""
 
